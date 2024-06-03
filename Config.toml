@@ -1,0 +1,4 @@
+[mods]
+directories = [] # you can put clientsettings etc. there and it will be copied from the kurublox directory to the roblox directory
+[settings]
+channel = "LIVE"
