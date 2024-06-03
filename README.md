@@ -6,4 +6,5 @@ simple roblox bootstrapper written in rust
 * create a Config.toml in same directory (you can use example config for this)
 * launch kurublox.exe
 ## how to uninstall:
-download roblox from the official page and run the installer (no need to uninstall roblox)
+* download roblox from the official page and run the installer (no need to uninstall roblox)
+* delete kurublox directory
